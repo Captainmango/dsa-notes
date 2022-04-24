@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b7d27458904fb853",
+    "type": "split",
+    "children": [
+      {
+        "id": "897ca2ab977a7566",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Background/Analysis of Algorithms.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a43b59aef5d74b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "23c549c60698a01e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b8d46cb7432d3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1672d5e542d3714",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e616f05216338fa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc12d19638811245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47cbc6b83fd7e216",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Background/Analysis of Algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "897ca2ab977a7566",
+  "lastOpenFiles": [
+    "Background/Analysis of Algorithms.md",
+    "Background/Space complexity.md",
+    "Background/Asymptotic analysis.md",
+    "Background/Recursion tree method.md",
+    "Background/Order of growth.md",
+    "Background/Big O notation.md",
+    "Background/asymptotic notations.md",
+    "Background/Omega notation.md",
+    "Background/Theta notation.md",
+    "n.md"
+  ]
+}

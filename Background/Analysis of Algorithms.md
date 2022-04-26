@@ -43,3 +43,5 @@ We divide efficiency cases for algos into:
 We differentiate [[Order of growth]] of algos using these cases.
 
 If there are complex conditions or operations, look for the actual work of the function. Base cases are always constant.
+
+[[Big O rules]]

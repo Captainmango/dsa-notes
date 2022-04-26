@@ -13,3 +13,4 @@ You can always ignore the lower order terms. Only consider the biggest terms whe
 C is constant (usually 1) Don't really see this. We just say one.
 
  [[Space complexity]]
+ [[Big O rules]]

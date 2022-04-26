@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "897ca2ab977a7566",
+        "id": "b5100a30356e6431",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Background/Analysis of Algorithms.md",
+            "file": "Cheeky Big O cheat sheet.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Background/Analysis of Algorithms.md",
+                "file": "Cheeky Big O cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "897ca2ab977a7566",
+  "active": "b5100a30356e6431",
   "lastOpenFiles": [
-    "Background/Analysis of Algorithms.md",
+    "Cheeky Big O cheat sheet.md",
+    "Background/Big O rules.md",
     "Background/Space complexity.md",
-    "Background/Asymptotic analysis.md",
-    "Background/Recursion tree method.md",
+    "Three pillars of programming.md",
     "Background/Order of growth.md",
-    "Background/Big O notation.md",
-    "Background/asymptotic notations.md",
     "Background/Omega notation.md",
-    "Background/Theta notation.md",
-    "n.md"
+    "Background/Analysis of Algorithms.md",
+    "Background/Asymptotic analysis.md",
+    "Background/Big O notation.md",
+    "Background/Theta notation.md"
   ]
 }

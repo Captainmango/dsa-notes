@@ -2,3 +2,4 @@ States the exact bound for [[Order of growth]] Used to specify the exact order o
 
 Can only use Theta notation if the order of growth is the same in the best and worst case (Basically, there has to be an exact or an overlap in the bounding for best and worst case)
 
+[[Big O rules]]

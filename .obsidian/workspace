@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2b80d828f3de95ca",
+        "id": "625a3b684f813821",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cheeky interview cheat sheet.md",
+            "file": "Hash tables.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheeky interview cheat sheet.md",
+                "file": "Hash tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b80d828f3de95ca",
+  "active": "625a3b684f813821",
   "lastOpenFiles": [
-    "Cheeky interview cheat sheet.md",
+    "Hash tables.md",
+    "Arrays.md",
     "Cheeky Big O cheat sheet.md",
+    "Solving interview problems.md",
+    "Background/asymptotic notations.md",
+    "Background/Big O notation.md",
     "Background/Big O rules.md",
-    "Background/Space complexity.md",
-    "Three pillars of programming.md",
-    "Background/Order of growth.md",
     "Background/Omega notation.md",
-    "Background/Analysis of Algorithms.md",
-    "Background/Asymptotic analysis.md",
-    "Background/Big O notation.md"
+    "Background/Recursion tree method.md",
+    "Cheeky interview cheat sheet.md"
   ]
 }

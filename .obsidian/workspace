@@ -89,14 +89,14 @@
   "active": "625a3b684f813821",
   "lastOpenFiles": [
     "Hash tables.md",
-    "Arrays.md",
-    "Cheeky Big O cheat sheet.md",
     "Solving interview problems.md",
+    "Cheeky interview cheat sheet.md",
+    "Cheeky Big O cheat sheet.md",
+    "Arrays.md",
     "Background/asymptotic notations.md",
     "Background/Big O notation.md",
     "Background/Big O rules.md",
     "Background/Omega notation.md",
-    "Background/Recursion tree method.md",
-    "Cheeky interview cheat sheet.md"
+    "Background/Recursion tree method.md"
   ]
 }

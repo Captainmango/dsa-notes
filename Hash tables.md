@@ -17,4 +17,8 @@ Collisions on keys can occur when the hash function generates a value that match
 
 When the above happens, the big O becomes O(n) or linear time.
 
-Javascript has M  aps and allows you to save expressions as keys. it also maintains insertion order (like the Set does)
+Javascript has Maps and allows you to save expressions as keys. it also maintains insertion order (like the Set does)
+
+Maps and Sets are somewhat interchangeable. Sets only store keys and do not allow collisions (they use open addressing) and Maps allow expressions to evaluate keys or values. Some hash table impls expect primitives only.
+
+Hash tables have fast lookups and inserts, but are slow to iterate over items. Use hash tables to manage items and retrieve, not store
